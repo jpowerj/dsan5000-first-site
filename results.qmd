@@ -1,0 +1,8 @@
+---
+title: "Results"
+format:
+  html:
+    html-math-method: mathjax
+---
+
+Here are my results! Things I type here will show up in the page.
